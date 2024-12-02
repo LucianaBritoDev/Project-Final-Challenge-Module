@@ -7,14 +7,17 @@ Objetivo: desenvolver uma página web completa utilizando React.
 Este projeto será expandido no módulo 2 - Back-end (Janeiro/2025), com a inclusão de novas funcionalidades, as quais ainda serão adquiridas.
 
 
-![Imagem1](https://github.com/user-attachments/assets/4e18f073-7d77-4e98-ba2a-f9cf8e834a71)
+<img width="934" alt="Imagem1" src="https://github.com/user-attachments/assets/c1282518-53af-4976-b139-7d72af1a0dee">
+<img width="933" alt="Imagem2" src="https://github.com/user-attachments/assets/3868b073-32fa-4aa0-b167-171694cdeebd">
 
-![Imagem2](https://github.com/user-attachments/assets/fe8d06d8-8682-4626-91ae-9d308450e571)
+<img width="934" alt="Imagem3" src="https://github.com/user-attachments/assets/c8e8cfd4-359c-42ec-9709-ef0a6f93644a">
+<img width="936" alt="Imagem4" src="https://github.com/user-attachments/assets/501f661f-e3ee-4dae-8512-20dc5faa1c0f">
 
-![Imagem3](https://github.com/user-attachments/assets/25507beb-10f1-4896-ace9-b4ff87a07064)
-![Imagem4](https://github.com/user-attachments/assets/7f5267ca-f024-4f24-b172-762d4b41ae46)
+<img width="939" alt="Imagem5" src="https://github.com/user-attachments/assets/8d35fc40-0489-4929-9183-14558e568fca">
+<img width="942" alt="Imagem6" src="https://github.com/user-attachments/assets/ec7ad0ca-65f9-4f96-aa9a-0a31a9f7a1d9">
 
-![Imagem5](https://github.com/user-attachments/assets/c8302f86-1d3b-4177-b328-98964e361657)
+
+
 
 
 
