@@ -1,10 +1,10 @@
 # React + Vite
 
-Desafio final (Módulo 1: Dezembro/2024): Livros Vai Na Web.
+Desafio final (módulo 1 [Front-end]: Dezembro/2024): Livros Vai Na Web.
 
 Objetivo: desenvolver uma página web completa utilizando React.
 
-Este projeto será expandido no módulo 2 (Janeiro/2025), com a inclusão de novas funcionalidades, as quais ainda serão adquiridas.
+Este projeto será expandido no (módulo 2 [Back-end]: Janeiro/2025), com a inclusão de novas funcionalidades, as quais ainda serão adquiridas.
 
 
 ![Imagem1](https://github.com/user-attachments/assets/4e18f073-7d77-4e98-ba2a-f9cf8e834a71)
