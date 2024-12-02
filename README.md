@@ -1,8 +1,16 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Desafio final (Módulo 1: Dezembro/2024): Livros Vai Na Web.
 
-Currently, two official plugins are available:
+Objetivo: desenvolver uma página web completa utilizando React.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Este projeto será expandido no módulo 2 (Janeiro/2025), com a inclusão de novas funcionalidades, as quais ainda serão adquiridas.
+
+
+
+
+
+
+
+
+
