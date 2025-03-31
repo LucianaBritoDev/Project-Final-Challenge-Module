@@ -32,7 +32,8 @@ export default function QueroDoar() {
       autor,
       image_url,
     };
-    await axios.post("https://api-y9i9.onrender.com/livros", dadosParaEnviar);
+    await axios.post("https://api-1-snqf.onrender.com/livros", dadosParaEnviar);
+  alert("Seu livro foi cadastrado com sucesso!")
   };
 
   return (
@@ -52,28 +53,28 @@ export default function QueroDoar() {
           id=""
           placeholder="Título"
           onChange={capturaTitulo}
-        />
+        required/>
         <input
           type="text"
           name=""
           id=""
           placeholder="Categoria"
           onChange={capturaCategoria}
-        />
+        required/>
         <input
           type="text"
           name=""
           id=""
           placeholder="Autor"
           onChange={capturaAutor}
-        />
+        required/>
         <input
           type="text"
           name=""
           id=""
           placeholder="Link da Imagem"
           onChange={capturaImg}
-        />
+        required/>
         <input
           type="submit"
           value="Doar"
