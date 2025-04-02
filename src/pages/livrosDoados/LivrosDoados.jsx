@@ -9,7 +9,7 @@ export default function LivrosDoados() {
 
   const getLivros = async()=>{
     const resposta = await axios.get("https://api-y9i9.onrender.com/livros")
-    setLivros(resposta.data.livros)
+    setLivros(resposta.data)
   }
   console.log(livros)
 
@@ -21,15 +21,15 @@ export default function LivrosDoados() {
     <section className={s.livrosDoadosSection}>
       <h2>Livros Doados</h2>
       <section className={s.containerCards}>
-        <section>
-          <img src={livroProtagonista} alt="Imagem do livro O Protagonista"/>
-          <div>
-          <h3>O Protagonista</h3>
-            <p>Susane Andrade</p>
-            <p>Ficção</p>
-          </div>
-        </section>
+        {livros.map((item) => (
+          <section>
+            <img src={item.image_url} alt={item.titulo} />
+            <div>
+              <h3>{item.titulo}</h3>
+            </div>
+          </section>
+        ))}
       </section>
-    </section>
+      </section>
   );
 }
