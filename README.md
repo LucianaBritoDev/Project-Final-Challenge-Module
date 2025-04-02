@@ -17,8 +17,9 @@ Este projeto será expandido no módulo 2 - Back-end (Janeiro/2025), com a inclu
 
 
 
-<img width="939" alt="Imagem5" src="https://github.com/user-attachments/assets/8d35fc40-0489-4929-9183-14558e568fca">
-<img width="942" alt="Imagem6" src="https://github.com/user-attachments/assets/ec7ad0ca-65f9-4f96-aa9a-0a31a9f7a1d9">
+![img1](https://github.com/user-attachments/assets/bc872b9d-0067-415b-b04d-1a3f26d19547)
+![img2](https://github.com/user-attachments/assets/15270ffb-e4d8-4dd7-8026-55f65178e4c4)
+
 
 
 
