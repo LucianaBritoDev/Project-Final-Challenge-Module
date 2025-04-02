@@ -7,11 +7,8 @@ Objetivo: desenvolver uma página web completa utilizando React.
 Este projeto será expandido no módulo 2 - Back-end (Janeiro/2025), com a inclusão de novas funcionalidades, as quais ainda serão adquiridas.
 
 
-<img width="934" alt="Imagem1" src="https://github.com/user-attachments/assets/c1282518-53af-4976-b139-7d72af1a0dee">
-<img width="933" alt="Imagem2" src="https://github.com/user-attachments/assets/3868b073-32fa-4aa0-b167-171694cdeebd">
-
-
-
+![img5](https://github.com/user-attachments/assets/af56413e-9b9f-406f-b4c5-e9a432738c20)
+![img6](https://github.com/user-attachments/assets/69cca3e0-8c44-49c7-a9a9-e5df8087fa7b)
 
 ![img3](https://github.com/user-attachments/assets/07930a44-de73-4541-932a-c6aba8cc9410)
 ![img4](https://github.com/user-attachments/assets/b416b23e-25a7-4c26-b533-f9672606f4b3)
