@@ -1,10 +1,9 @@
 # React + Vite
 
-Desafio final: módulo 1 - Front-end (Dezembro/2024): Livros Vai Na Web.
+Desafio final: módulo 2 - Back-end (Abril/2025): Livros Vai Na Web.
 
-Objetivo: desenvolver uma página web completa utilizando React.
+Objetivo: integrar o Front-end do site de doação de livros que foi desenvolvido no módulo 1 com a API que criada no módulo 2. A aplicação final permite exibir e cadastrar livros utilizando os dados retornados pela API.
 
-Este projeto será expandido no módulo 2 - Back-end (Janeiro/2025), com a inclusão de novas funcionalidades, as quais ainda serão adquiridas.
 
 
 ![img5](https://github.com/user-attachments/assets/af56413e-9b9f-406f-b4c5-e9a432738c20)
