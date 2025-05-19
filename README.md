@@ -1,24 +1,20 @@
 # React + Vite
 
-Desafio final: módulo 1 - Front-end (Dezembro/2024): Livros Vai Na Web.
+Desafio final: módulo 2 - Back-end (Abril/2025): Livros Vai Na Web.
 
-Objetivo: desenvolver uma página web completa utilizando React.
-
-Este projeto será expandido no módulo 2 - Back-end (Janeiro/2025), com a inclusão de novas funcionalidades, as quais ainda serão adquiridas.
-
-
-<img width="934" alt="Imagem1" src="https://github.com/user-attachments/assets/c1282518-53af-4976-b139-7d72af1a0dee">
-<img width="933" alt="Imagem2" src="https://github.com/user-attachments/assets/3868b073-32fa-4aa0-b167-171694cdeebd">
+Objetivo: integrar o Front-end do site de doação de livros que foi desenvolvido no módulo 1 com a API que criada no módulo 2. A aplicação final permite exibir e cadastrar livros utilizando os dados retornados pela API.
 
 
 
-<img width="934" alt="Imagem3" src="https://github.com/user-attachments/assets/c8e8cfd4-359c-42ec-9709-ef0a6f93644a">
-<img width="936" alt="Imagem4" src="https://github.com/user-attachments/assets/501f661f-e3ee-4dae-8512-20dc5faa1c0f">
+![img5](https://github.com/user-attachments/assets/af56413e-9b9f-406f-b4c5-e9a432738c20)
+![img6](https://github.com/user-attachments/assets/69cca3e0-8c44-49c7-a9a9-e5df8087fa7b)
 
+![img3](https://github.com/user-attachments/assets/07930a44-de73-4541-932a-c6aba8cc9410)
+![img4](https://github.com/user-attachments/assets/b416b23e-25a7-4c26-b533-f9672606f4b3)
 
+![img1](https://github.com/user-attachments/assets/bc872b9d-0067-415b-b04d-1a3f26d19547)
+![img2](https://github.com/user-attachments/assets/15270ffb-e4d8-4dd7-8026-55f65178e4c4)
 
-<img width="939" alt="Imagem5" src="https://github.com/user-attachments/assets/8d35fc40-0489-4929-9183-14558e568fca">
-<img width="942" alt="Imagem6" src="https://github.com/user-attachments/assets/ec7ad0ca-65f9-4f96-aa9a-0a31a9f7a1d9">
 
 
 
