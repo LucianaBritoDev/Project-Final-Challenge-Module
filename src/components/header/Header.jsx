@@ -2,8 +2,8 @@ import logoLivro from '../../assets/logoLivro.png';
 import search from '../../assets/search.png';
 import { BrowserRouter, Routes, Route, Link } from 'react-router-dom';
 import Inicio from '../../pages/inicio/Inicio.jsx';
-import QueroDoar from '../../pages/livrosDoados/LivrosDoados.jsx';
-import LivrosDoados from '../../pages/queroDoar/QueroDoar.jsx';
+import QueroDoar from '../../pages/queroDoar/QueroDoar.jsx';
+import LivrosDoados from '../../pages/livrosDoados/LivrosDoados.jsx';
 import s from './header.module.scss'
 
 export default function Header() {
